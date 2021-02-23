@@ -3,3 +3,4 @@
 !.gitignore
 
 !workflow_packing/
+!workflow_packing/*
